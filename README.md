@@ -1,7 +1,13 @@
 # TIP/Algorithm
 ##TIP
 - 크롬에서 특정 사이트 차단 하는 방법       
-https://chrome.google.com/webstore/detail/website-blocker-beta/hclgegipaehbigmbhdpfapmjadbaldib/related?hl=en
+https://chrome.google.com/webstore/detail/website-blocker-beta/hclgegipaehbigmbhdpfapmjadbaldib/related?hl=en       
+- 다각형 내부/외부에 있는 점 판별 방법
+
+![default](https://cloud.githubusercontent.com/assets/19329620/16360799/9d5c0b5a-3baf-11e6-9ba0-09f02caa4dcf.JPG)
+
+점의 오른쪽으로 반 직선을 그었을 때 다각형과 만나는 점의 개수가 홀수 개 이면 내부에 있는 점이라는 것.
+반대로 짝수개의 점이 존재하면 외부에 있는 점으로 판별.
 
 ##알고리즘 풀이 
 
