@@ -12,5 +12,5 @@ https://chrome.google.com/webstore/detail/website-blocker-beta/hclgegipaehbigmbh
 ##알고리즘 풀이 
 
 알고리즘을 연습하는 저장공간
-
+- http://blog.naver.com/tndgus6365 알고리즘 연습 블로그.      
 - https://www.acmicpc.net/problem/2650 ncross 문제        
